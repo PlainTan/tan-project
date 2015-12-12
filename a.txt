@@ -1,3 +1,6 @@
 This is a little book about how to program;
 
 How to do this;
+
+
+Git is free softeware;
